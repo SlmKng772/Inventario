@@ -1,0 +1,42 @@
+﻿@model IEnumerable<MVCInvTI.Models.InvSoft>
+
+@{
+    ViewData["Title"] = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h1>Início</h1>
+
+<p>
+    <a asp-action="Create">Criar Novo</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.Software)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CodSoft)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Software)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.CodSoft)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.idSoft">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.idSoft">Detalhes</a> |
+                <a asp-action="Delete" asp-route-id="@item.idSoft">Deletar</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

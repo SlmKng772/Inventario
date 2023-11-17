@@ -1,0 +1,125 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = MVCInvTI
+build_property.RootNamespace = MVCInvTI
+build_property.ProjectDir = W:\users\gabriel.fsouza27\source\repos\MVCInvTI\MVCInvTI\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = W:\users\gabriel.fsouza27\source\repos\MVCInvTI\MVCInvTI
+build_property._RazorSourceGeneratorDebug = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadClis/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadClis/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadClis/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadClis/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadClis/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkQ2xpc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadProds/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadProds/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadProds/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadProds/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/CadProds/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ2FkUHJvZHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvMaqs/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvMaqs/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvMaqs/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxc1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvMaqs/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvMaqs/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52TWFxc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvSofts/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvSofts/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvSofts/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvSofts/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/InvSofts/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW52U29mdHNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[W:/users/gabriel.fsouza27/source/repos/MVCInvTI/MVCInvTI/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-zakwfp1aqq
